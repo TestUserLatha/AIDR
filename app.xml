@@ -15,7 +15,7 @@
    - limitations under the License.
   -->
 <Module>
-    <ModulePrefs title="Social Groups Example"
+    <ModulePrefs title="Copy"
                 author="Jive Software"
            description="Manage social groups">
         <Link rel="Icon" href="group-icon.png"/>
